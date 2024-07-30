@@ -60,7 +60,7 @@ DebugMenu::DebugMenu()
 	createTextInstance(&textVector, sfml_version_str, sf::Vector2f(0.0, 26.0), 16, sf::Color::White, &font_JetBrainsMono);
 
 	//? //////////////////////////////////////////////////
-
+	// TODO: remake to vector renderer
 	
 	if (!texture.loadFromFile("../res/Textures/test300x300image.png"))
 	{

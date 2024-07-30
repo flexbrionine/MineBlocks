@@ -9,4 +9,4 @@
 #include <SFML/Config.hpp>
 
 #include "DebugMenu/DebugMenu.cpp"
-#include "BasicTools.hpp"
+#include "BasicTools.cpp"

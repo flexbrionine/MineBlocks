@@ -13,7 +13,6 @@
 #include "Tools/FileLinks.hpp"
 #include "Tools/Declaration.hpp"
 using namespace std;
-// using namespace sf;
 
 DebugMenu debugMenu;
 sf::Event event;
