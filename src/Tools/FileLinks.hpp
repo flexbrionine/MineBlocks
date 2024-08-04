@@ -8,5 +8,5 @@
 #include <SFML/Graphics.hpp>
 #include <SFML/Config.hpp>
 
-#include "DebugMenu/DebugMenu.cpp"
+#include "DebugMenu.cpp"
 #include "BasicTools.cpp"
